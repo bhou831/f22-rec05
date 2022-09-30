@@ -9,5 +9,10 @@ package edu.cmu.cs.cs214.rec04;
  * @author Nora Shoemaker
  *
  */
-public class InheritanceSortedIntList {
+public class InheritanceSortedIntList extends SortedIntList{
+
+    private int totalAdded;
+
+
+    
 }
